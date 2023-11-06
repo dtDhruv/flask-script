@@ -10,7 +10,7 @@ A script to create a Flask app template within an environment.
 ## Requirements
 - Python Interpreter
 
-##Usage
+## Usage
 1. Clone the repo or copy the script and paste it to a file with .sh extension.
 2. Open the terminal at the location of your file.
 3. Run: ```chmod +x flask.sh```
