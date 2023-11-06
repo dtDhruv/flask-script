@@ -1,4 +1,4 @@
-#! usr/bin/bash
+#! /usr/bin/bash
 
 read -p 'Enter Name of Flask App: ' name
 mkdir "$name"
